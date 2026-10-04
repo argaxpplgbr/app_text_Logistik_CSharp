@@ -1,0 +1,19 @@
+﻿==========================================
+   LAPORAN LOGISTIK PENGIRIMAN
+   Dibuat pada: 02/10/2026 17:47:14
+==========================================
+
+RINGKASAN
+Total paket                 : 1
+Total kurir                 : 1
+Pendapatan terealisasi      : Rp 12.024.000
+Potensi pendapatan (aktif)  : Rp 0
+
+DAFTAR KURIR
+------------------------------------------
+1. Kurir 1 | pano | Motor | Paket aktif: 0/3
+
+DAFTAR PAKET
+------------------------------------------
+1. [1001] budi -> arga | Same Day | 400 kg | Berhasil dikirim | Rp 12.024.000
+
